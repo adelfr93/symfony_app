@@ -18,6 +18,7 @@
         "symfony/http-foundation": "5.4.*",
         "symfony/proxy-manager-bridge": "5.4.*",
         "symfony/runtime": "*",
+        "symfony/security-bundle": "5.4.*",
         "symfony/twig-bundle": "5.4.*",
         "symfony/yaml": "*",
         "twig/extra-bundle": "^2.12|^3.0",
